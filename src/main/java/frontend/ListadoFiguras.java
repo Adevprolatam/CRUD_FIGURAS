@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JPanel.java to edit this template
  */
 package frontend;
-//IMPORTS
+//IMPORT
 import backend.Circulo;
 import backend.Cuadrado;
 import backend.FiguraCRUD;
